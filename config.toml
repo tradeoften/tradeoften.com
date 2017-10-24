@@ -1,6 +1,6 @@
 baseURL = "/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "tradeoften.com"
 theme = "universal"
 # Site language. Available translations in the theme's `/i18n` directory.
 defaultContentLanguage = "en"
